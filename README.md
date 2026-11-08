@@ -1,1 +1,1 @@
-# one-bit-correlatio
+# one-bit-correlation
